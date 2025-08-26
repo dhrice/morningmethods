@@ -3,7 +3,7 @@
 The Thursday Morning Methods workshop is an open meeting focused on practical methods exposure for graduate students and faculty within Communication Arts and Sciences.
 
 **When:** Thursdays, 9:30 – 11:00 AM  
-**Where:** [Insert room / Zoom link]  
+**Where:** TBA
 **Who:** Open to anyone interested in research methods
 
 ---
