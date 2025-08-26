@@ -4,6 +4,7 @@ The Thursday Morning Methods workshop is an open meeting focused on practical me
 
 **When:** Thursdays, 9:30 – 11:00 AM  
 **Where:** TBA
+
 **Who:** Open to anyone interested in research methods
 
 ---
