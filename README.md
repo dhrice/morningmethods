@@ -1,6 +1,6 @@
-# Thursday Morning Methods Workshop
+# Thursday Morning Methods
 
-The Thursday Morning Methods Workshop is a weekly gathering focused on practical methods training for graduate students and faculty.  
+The Thursday Morning Methods workshop is an open meeting focused on practical methods exposure for graduate students and faculty within Communication Arts and Sciences.
 
 **When:** Thursdays, 9:30 – 11:00 AM  
 **Where:** [Insert room / Zoom link]  
@@ -9,7 +9,7 @@ The Thursday Morning Methods Workshop is a weekly gathering focused on practical
 ---
 
 ## Purpose
-The goal of this workshop is to provide hands-on, digestible training in research methods through presentations and discussion. Presenters share projects—either published work or research in progress—with a focus on the methods used.  
+The goal of this workshop is to provide hands-on, digestible exposure in research methods through presentations and discussion. Presenters share projects (either published work or research in progress) with a focus on the methods used. This includes why they chose the method they did, what strengths and weaknesses that method provides, what must be considered when using this method, and how to prep and analyze the data. The goal is expose attendees to diverse methods without requiring a formal course on the topic. There will be time at the end for discussion and questions.
 
 ---
 
@@ -25,7 +25,10 @@ Each session includes:
 
 ---
 
-## Examples
-- Presenting a hierarchical time series study: focusing on grouping and seasonality decisions  
-- An eye-tracking project: what eye tracking can and cannot detect, and approaches to analyzing the data  
-- Conducting focus group interviews: design, execution, and interpretation
+## Upcoming Workshops
+- TBD
+
+---
+
+## Past Workshops
+- TBD
